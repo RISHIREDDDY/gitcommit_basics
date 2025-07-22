@@ -1,0 +1,2 @@
+basics  commands to commit through git bash
+22/7/25
